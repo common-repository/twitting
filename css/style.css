@@ -1,0 +1,15 @@
+﻿#toplevel_page_twitting div.wp-menu-image {
+	background: transparent url(../images/icon.png) no-repeat  scroll center 0;
+}
+#toplevel_page_twitting:hover div.wp-menu-image,
+#toplevel_page_twitting.current div.wp-menu-image {
+	background: transparent url(../images/icon.png) no-repeat  scroll center -28px;
+}
+#toplevel_page_twitting div.wp-menu-image img {
+	display:none;
+}
+.tmpUpBt {
+    float: right;
+    margin-top: -6px;
+	margin-right: -10px;
+}
